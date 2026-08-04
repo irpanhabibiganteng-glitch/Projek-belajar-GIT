@@ -3,7 +3,4 @@ clone project git/
 
 # mengecualikan file (satu file)
 log.txt
-
-# mengecualikan file (semua file dengan ekstensi tertentu)
-*.html
-
+index.ts
