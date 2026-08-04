@@ -4,3 +4,6 @@ clone project git/
 # mengecualikan file (satu file)
 log.txt
 index.ts
+
+# semua file dengan ekstensi .py
+*.py
